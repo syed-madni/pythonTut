@@ -1,0 +1,1 @@
+myfunc( fruit = 'Apple' , veggie = 'lettuce')    # **kwargs return dictionary

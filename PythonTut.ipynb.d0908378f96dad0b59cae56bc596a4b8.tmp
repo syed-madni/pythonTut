@@ -1,0 +1,6 @@
+def check_guess(mylist,guess):
+    if mylist[guess] =='0':
+        print("correct!")
+    else:
+        print("wrong guess!")
+        print(mylist)
