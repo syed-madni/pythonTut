@@ -1,3 +1,0 @@
-def myfunc(*args):        # *Args return tuple
-    for item in args:
-        print(item)

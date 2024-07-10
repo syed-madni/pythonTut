@@ -1,4 +1,0 @@
-def myfunc(a,b):
-
-    #Returns 5% of a and b
-    return sum((a,b)) * 0.05
